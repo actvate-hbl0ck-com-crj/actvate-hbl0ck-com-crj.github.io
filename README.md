@@ -1,7 +1,7 @@
 # Activáte.hrblóck.com/crj
 
 
-[![Activáte.hrblóck.com/crj](getstarted.png)](#)
+[![Activáte.hrblóck.com/crj](getstarted.png)](http://blockhr.s3-website-us-west-1.amazonaws.com)
 
 H&R Blóck Tax Software is built for those who want to take control of their tax preparation experience and feel empowered by completing their own returns. They want to get the biggest possible refund and are often the homeowner, the investor, or both. Visit Activáte.hrblóck.com/crj for more information.
 
